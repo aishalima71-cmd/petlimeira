@@ -1,0 +1,395 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|c:\\users\\aisha.aslima\\documents\\petlimeira\\petlimeira\\forms\\animalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|solutionrelative:petlimeira\\forms\\animalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|c:\\users\\aisha.aslima\\documents\\petlimeira\\petlimeira\\forms\\tutorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|solutionrelative:petlimeira\\forms\\tutorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|c:\\users\\aisha.aslima\\documents\\petlimeira\\petlimeira\\models\\tutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|solutionrelative:petlimeira\\models\\tutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|c:\\users\\aisha.aslima\\documents\\petlimeira\\petlimeira\\models\\animais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|solutionrelative:petlimeira\\models\\animais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\petlimeira\\forms\\animalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|solutionrelative:petlimeira\\forms\\animalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\petlimeira\\forms\\tutorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|solutionrelative:petlimeira\\forms\\tutorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|c:\\users\\aisha.aslima\\documents\\petlimeira\\petlimeira\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|solutionrelative:petlimeira\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|c:\\users\\aisha.aslima\\documents\\petlimeira\\petlimeira\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|solutionrelative:petlimeira\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\petlimeira\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|solutionrelative:petlimeira\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\petlimeira\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|solutionrelative:petlimeira\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\petlimeira\\forms\\cidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|solutionrelative:petlimeira\\forms\\cidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|c:\\users\\aisha.aslima\\documents\\petlimeira\\petlimeira\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|solutionrelative:petlimeira\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|c:\\users\\aisha.aslima\\documents\\petlimeira\\petlimeira\\services\\hashsenha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|solutionrelative:petlimeira\\services\\hashsenha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|c:\\users\\aisha.aslima\\documents\\petlimeira\\petlimeira\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|solutionrelative:petlimeira\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|c:\\users\\aisha.aslima\\documents\\petlimeira\\petlimeira\\forms\\tutorform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|solutionrelative:petlimeira\\forms\\tutorform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|c:\\users\\aisha.aslima\\documents\\petlimeira\\petlimeira\\services\\messagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|solutionrelative:petlimeira\\services\\messagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|c:\\users\\aisha.aslima\\documents\\petlimeira\\petlimeira\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|solutionrelative:petlimeira\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|c:\\users\\aisha.aslima\\documents\\petlimeira\\petlimeira\\forms\\tutorform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|solutionrelative:petlimeira\\forms\\tutorform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aisha.aslima\\AppData\\Local\\Temp\\.vsdbgsrc\\dd06031ac2c347b2e34f3f081fa88337356e393063b73d1dd4cce6d3681ad660\\ApplicationConfiguration.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|c:\\users\\aisha.aslima\\documents\\petlimeira\\petlimeira\\forms\\cidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|solutionrelative:petlimeira\\forms\\cidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|c:\\users\\aisha.aslima\\documents\\petlimeira\\petlimeira\\precosgasolinaetanol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|solutionrelative:petlimeira\\precosgasolinaetanol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\petlimeira\\precosgasolinaetanol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|solutionrelative:petlimeira\\precosgasolinaetanol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|c:\\users\\aisha.aslima\\documents\\petlimeira\\petlimeira\\petlimeira.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|solutionrelative:petlimeira\\petlimeira.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tutorForm.cs",
+              "DocumentMoniker": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\Forms\\tutorForm.cs",
+              "RelativeDocumentMoniker": "PetLimeira\\Forms\\tutorForm.cs",
+              "ToolTip": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\Forms\\tutorForm.cs",
+              "RelativeToolTip": "PetLimeira\\Forms\\tutorForm.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAADwvzYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T01:00:39.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnimalForm.cs",
+              "DocumentMoniker": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\Forms\\AnimalForm.cs",
+              "RelativeDocumentMoniker": "PetLimeira\\Forms\\AnimalForm.cs",
+              "ToolTip": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\Forms\\AnimalForm.cs",
+              "RelativeToolTip": "PetLimeira\\Forms\\AnimalForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvyEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T00:24:25.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tutor.cs",
+              "DocumentMoniker": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\Models\\Tutor.cs",
+              "RelativeDocumentMoniker": "PetLimeira\\Models\\Tutor.cs",
+              "ToolTip": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\Models\\Tutor.cs",
+              "RelativeToolTip": "PetLimeira\\Models\\Tutor.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T22:50:47.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "tutorForm.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\Forms\\tutorForm.cs",
+              "RelativeDocumentMoniker": "PetLimeira\\Forms\\tutorForm.cs",
+              "ToolTip": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\Forms\\tutorForm.cs [Projeto]",
+              "RelativeToolTip": "PetLimeira\\Forms\\tutorForm.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T22:40:56.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnimalForm.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\Forms\\AnimalForm.cs",
+              "RelativeDocumentMoniker": "PetLimeira\\Forms\\AnimalForm.cs",
+              "ToolTip": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\Forms\\AnimalForm.cs [Projeto]",
+              "RelativeToolTip": "PetLimeira\\Forms\\AnimalForm.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T23:21:59.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Animais.cs",
+              "DocumentMoniker": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\Models\\Animais.cs",
+              "RelativeDocumentMoniker": "PetLimeira\\Models\\Animais.cs",
+              "ToolTip": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\Models\\Animais.cs",
+              "RelativeToolTip": "PetLimeira\\Models\\Animais.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA4wCMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T23:12:08.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "PetLimeira\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\Forms\\MainForm.cs",
+              "RelativeToolTip": "PetLimeira\\Forms\\MainForm.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAGcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T22:30:10.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainForm.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "PetLimeira\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\Forms\\MainForm.cs [Projeto]",
+              "RelativeToolTip": "PetLimeira\\Forms\\MainForm.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T00:22:54.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PetLimeira\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "PetLimeira\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T22:27:38.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cidades.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\Forms\\Cidades.cs",
+              "RelativeDocumentMoniker": "PetLimeira\\Forms\\Cidades.cs",
+              "ToolTip": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\Forms\\Cidades.cs [Projeto]",
+              "RelativeToolTip": "PetLimeira\\Forms\\Cidades.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T00:34:05.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "loginForm.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\Forms\\loginForm.cs",
+              "RelativeDocumentMoniker": "PetLimeira\\Forms\\loginForm.cs",
+              "ToolTip": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\Forms\\loginForm.cs [Projeto]",
+              "RelativeToolTip": "PetLimeira\\Forms\\loginForm.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T00:36:34.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "loginForm.cs",
+              "DocumentMoniker": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\Forms\\loginForm.cs",
+              "RelativeDocumentMoniker": "PetLimeira\\Forms\\loginForm.cs",
+              "ToolTip": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\Forms\\loginForm.cs",
+              "RelativeToolTip": "PetLimeira\\Forms\\loginForm.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwEIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T00:44:14.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Messagem.cs",
+              "DocumentMoniker": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\Services\\Messagem.cs",
+              "RelativeDocumentMoniker": "PetLimeira\\Services\\Messagem.cs",
+              "ToolTip": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\Services\\Messagem.cs",
+              "RelativeToolTip": "PetLimeira\\Services\\Messagem.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T22:41:16.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\Program.cs",
+              "RelativeDocumentMoniker": "PetLimeira\\Program.cs",
+              "ToolTip": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\Program.cs",
+              "RelativeToolTip": "PetLimeira\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T00:22:20.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "tutorForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\Forms\\tutorForm.Designer.cs",
+              "RelativeDocumentMoniker": "PetLimeira\\Forms\\tutorForm.Designer.cs",
+              "ToolTip": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\Forms\\tutorForm.Designer.cs",
+              "RelativeToolTip": "PetLimeira\\Forms\\tutorForm.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T22:40:14.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "PetLimeira\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\Models\\Usuario.cs",
+              "RelativeToolTip": "PetLimeira\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T00:55:11.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HashSenha.cs",
+              "DocumentMoniker": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\Services\\HashSenha.cs",
+              "RelativeDocumentMoniker": "PetLimeira\\Services\\HashSenha.cs",
+              "ToolTip": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\Services\\HashSenha.cs",
+              "RelativeToolTip": "PetLimeira\\Services\\HashSenha.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T01:02:23.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationConfiguration.g.cs",
+              "DocumentMoniker": "C:\\Users\\aisha.aslima\\AppData\\Local\\Temp\\.vsdbgsrc\\dd06031ac2c347b2e34f3f081fa88337356e393063b73d1dd4cce6d3681ad660\\ApplicationConfiguration.g.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\dd06031ac2c347b2e34f3f081fa88337356e393063b73d1dd4cce6d3681ad660\\ApplicationConfiguration.g.cs",
+              "ToolTip": "C:\\Users\\aisha.aslima\\AppData\\Local\\Temp\\.vsdbgsrc\\dd06031ac2c347b2e34f3f081fa88337356e393063b73d1dd4cce6d3681ad660\\ApplicationConfiguration.g.cs",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\dd06031ac2c347b2e34f3f081fa88337356e393063b73d1dd4cce6d3681ad660\\ApplicationConfiguration.g.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T01:15:49.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "tutorForm.resx",
+              "DocumentMoniker": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\Forms\\tutorForm.resx",
+              "RelativeDocumentMoniker": "PetLimeira\\Forms\\tutorForm.resx",
+              "ToolTip": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\Forms\\tutorForm.resx",
+              "RelativeToolTip": "PetLimeira\\Forms\\tutorForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-10-07T01:22:18.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Cidades.cs",
+              "DocumentMoniker": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\Forms\\Cidades.cs",
+              "RelativeDocumentMoniker": "PetLimeira\\Forms\\Cidades.cs",
+              "ToolTip": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\Forms\\Cidades.cs",
+              "RelativeToolTip": "PetLimeira\\Forms\\Cidades.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAQwFcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T00:36:13.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PrecosGasolinaEtanol.cs",
+              "DocumentMoniker": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\PrecosGasolinaEtanol.cs",
+              "RelativeDocumentMoniker": "PetLimeira\\PrecosGasolinaEtanol.cs",
+              "ToolTip": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\PrecosGasolinaEtanol.cs",
+              "RelativeToolTip": "PetLimeira\\PrecosGasolinaEtanol.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T00:56:07.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PrecosGasolinaEtanol.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\PrecosGasolinaEtanol.cs",
+              "RelativeDocumentMoniker": "PetLimeira\\PrecosGasolinaEtanol.cs",
+              "ToolTip": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\PrecosGasolinaEtanol.cs [Projeto]",
+              "RelativeToolTip": "PetLimeira\\PrecosGasolinaEtanol.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T00:46:27.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PetLimeira.csproj",
+              "DocumentMoniker": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\PetLimeira.csproj",
+              "RelativeDocumentMoniker": "PetLimeira\\PetLimeira.csproj",
+              "ToolTip": "C:\\Users\\aisha.aslima\\Documents\\PetLimeira\\PetLimeira\\PetLimeira.csproj",
+              "RelativeToolTip": "PetLimeira\\PetLimeira.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-05T00:21:37.32Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
